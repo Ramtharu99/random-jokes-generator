@@ -1,0 +1,11 @@
+{
+  "name": "random-jokes",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+      "start": "node getJokes.js"
+  },
+  "dependencies": {
+      "chalk": "^5.4.1"
+  }
+}
